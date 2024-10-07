@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>❤️❤️❤️</title>
+    <url>/2024/09/30/about/me/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+  </entry>
+  <entry>
+    <title>插件</title>
+    <url>/2024/10/06/chajian/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Miao-Plugin"><a href="#Miao-Plugin" class="headerlink" title="Miao-Plugin"></a>Miao-Plugin</h1><ul>
+<li>miao-plugin是一个Yunzai-Bot的升级插件，提供包括角色面板、角色查询等角色相关功能。</li>
+</ul>
+<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><ul>
+<li>使用gitee<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git clone --depth=1 https://gitee.com/yoimiya-kokomi/miao-plugin.git ./plugins/miao-plugin/</span><br><span class="line">pnpm install -P</span><br></pre></td></tr></table></figure></li>
+<li>使用github<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git clone --depth=1 https://github.com/yoimiya-kokomi/miao-plugin.git ./plugins/miao-plugin/</span><br><span class="line">pnpm install -P</span><br></pre></td></tr></table></figure></li>
+</ul>
+<h3 id="原链接"><a href="#原链接" class="headerlink" title="原链接"></a>原链接</h3><p><a href="https://gitee.com/yoimiya-kokomi/miao-plugin">点击查看</a></p>
+<h1 id="TRSS-Yunzai"><a href="#TRSS-Yunzai" class="headerlink" title="TRSS-Yunzai"></a>TRSS-Yunzai</h1><ul>
+<li>Yunzai 应用端，支持多账号，支持协议端：OneBotv11、ComWeChat、GSUIDCore、ICQQ、QQBot、QQ频道、微信、KOOK、Telegram、Discord、OPQBot、Lagrange</li>
+</ul>
+<h2 id="安装-1"><a href="#安装-1" class="headerlink" title="安装"></a>安装</h2><ul>
+<li>详情见<a href="/liunx/">教程</a></li>
+</ul>
+<h3 id="原链接-1"><a href="#原链接-1" class="headerlink" title="原链接"></a>原链接</h3><p><a href="https://gitee.com/TimeRainStarSky/Yunzai">点击查看</a></p>
+<h1 id="Miao-Yunzai-v3"><a href="#Miao-Yunzai-v3" class="headerlink" title="Miao-Yunzai v3"></a>Miao-Yunzai v3</h1><ul>
+<li><p>基于乐神版云崽v3.0 改造，需要同时安装miao-plugin</p>
+</li>
+<li><p>对数据结构进行了改造，无法直接迁回原版Yunzai，请根据自己需求情况慎重安装！</p>
+</li>
+</ul>
+<h2 id="安装-2"><a href="#安装-2" class="headerlink" title="安装"></a>安装</h2><ul>
+<li>详情见<a href="/liunx/">教程</a></li>
+</ul>
+<h3 id="原链接-2"><a href="#原链接-2" class="headerlink" title="原链接"></a>原链接</h3><p><a href="https://gitee.com/yoimiya-kokomi/Miao-Yunzai">点击查看</a></p>
+<h1 id="YZ-NEXT-PE"><a href="#YZ-NEXT-PE" class="headerlink" title="YZ-NEXT-PE"></a>YZ-NEXT-PE</h1><ul>
+<li>Yunzai-Bot Next PE 是 Next 库的纯净版</li>
+</ul>
+<h2 id="安装-3"><a href="#安装-3" class="headerlink" title="安装"></a>安装</h2><ul>
+<li>详情见<a href="/next/">教程</a></li>
+</ul>
+<h3 id="原链接-3"><a href="#原链接-3" class="headerlink" title="原链接"></a>原链接</h3><p><a href="https://github.com/yunzai-org/yunzai-bot">点击查看</a></p>
+<h1 id="Earth-K-Plugin"><a href="#Earth-K-Plugin" class="headerlink" title="Earth-K-Plugin"></a>Earth-K-Plugin</h1><ul>
+<li>Earth-K-Plugin是一个Yunzai-Bot的附属插件，主要提供了原史及部分功能</li>
+</ul>
+<h2 id="安装-4"><a href="#安装-4" class="headerlink" title="安装"></a>安装</h2><ul>
+<li><p>使用gitee</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git clone --depth=1 https://gitee.com/SmallK111407/earth-k-plugin.git ./plugins/earth-k-plugin/</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>使用github</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git clone --depth=1 https://github.com/SmallK111407/earth-k-plugin.git ./plugins/earth-k-plugin/</span><br></pre></td></tr></table></figure></li>
+</ul>
+<h3 id="原链接-4"><a href="#原链接-4" class="headerlink" title="原链接"></a>原链接</h3><p><a href="https://github.com/SmallK111407/earth-k-plugin">点击查看</a></p>
+<h1 id="Yenai-Plugin"><a href="#Yenai-Plugin" class="headerlink" title="Yenai-Plugin"></a>Yenai-Plugin</h1><ul>
+<li>Yenai-Plugin是一个Yunzai-Bot的扩展插件，提供对Bot的一些便捷操作。</li>
+</ul>
+<h2 id="安装-5"><a href="#安装-5" class="headerlink" title="安装"></a>安装</h2><ul>
+<li><p>使用gitee</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git clone -b master --depth=1 https://gitee.com/yeyang52/yenai-plugin.git ./plugins/yenai-plugin</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>使用github</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git clone -b master --depth=1 https://github.com/yeyang52/yenai-plugin.git ./plugins/yenai-plugin</span><br></pre></td></tr></table></figure></li>
+<li><p>依赖(可选)</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">pnpm install</span><br></pre></td></tr></table></figure></li>
+</ul>
+<h3 id="原链接-5"><a href="#原链接-5" class="headerlink" title="原链接"></a>原链接</h3><p><a href="https://github.com/yeyang52/yenai-plugin">点击查看</a></p>
+<h1 id="logier-plugin"><a href="#logier-plugin" class="headerlink" title="logier-plugin"></a>logier-plugin</h1><ul>
+<li>24.02.26 更新潜伏模板，群聊中收到消息后概率GPT回复并发送表情包，对俗手哥拙劣的模仿</li>
+</ul>
+<h2 id="安装-6"><a href="#安装-6" class="headerlink" title="安装"></a>安装</h2><ul>
+<li><p>使用gitee</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git clone --depth=1 https://gitee.com/logier/logier-plugins.git ./plugins/logier-plugin/</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>使用github</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git clone --depth=1 https://github.com/logier/logier-plugins.git ./plugins/logier-plugin/</span><br></pre></td></tr></table></figure></li>
+</ul>
+<h3 id="原链接-6"><a href="#原链接-6" class="headerlink" title="原链接"></a>原链接</h3><p><a href="https://github.com/logier/logier-plugins">点击查看</a></p>
+<h1 id="lin-plugin"><a href="#lin-plugin" class="headerlink" title="lin-plugin"></a>lin-plugin</h1><ul>
+<li>有Bug请等待一段时间重新拉取或者更新版本，重新拉取不能解决可以反馈到Issues，谢谢</li>
+</ul>
+<h2 id="安装-7"><a href="#安装-7" class="headerlink" title="安装"></a>安装</h2><ul>
+<li><p>使用gitee</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git clone https://gitee.com/go-farther-and-farther/lin-plugin.git ./plugins/lin-plugin/</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>使用github</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git clone https://github.com/go-farther-and-farther/lin-plugin.git ./plugins/lin-plugin/</span><br></pre></td></tr></table></figure></li>
+</ul>
+<h3 id="原链接-7"><a href="#原链接-7" class="headerlink" title="原链接"></a>原链接</h3><p><a href="https://github.com/go-farther-and-farther/lin-plugin">点击查看</a></p>
+<h1 id="L-Plugin"><a href="#L-Plugin" class="headerlink" title="L-Plugin"></a>L-Plugin</h1><ul>
+<li>L-Plugin 是一个 Yunzai-Bot V3 的功能插件</li>
+</ul>
+<h2 id="安装-8"><a href="#安装-8" class="headerlink" title="安装"></a>安装</h2><ul>
+<li><p>使用gitee</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git clone https://github.com/liuly0322/l-plugin.git ./plugins/l-plugin/</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>安装依赖</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">cd plugins/l-plugin</span><br><span class="line">pnpm install</span><br></pre></td></tr></table></figure></li>
+</ul>
+<h3 id="原链接-8"><a href="#原链接-8" class="headerlink" title="原链接"></a>原链接</h3><p><a href="https://github.com/liuly0322/l-plugin">点击查看</a></p>
+<h1 id="GPTI-PLUGIN"><a href="#GPTI-PLUGIN" class="headerlink" title="GPTI-PLUGIN"></a>GPTI-PLUGIN</h1><ul>
+<li>一个适用于 Yunzai 系列机器人框架 的 GPT 插件，无需令牌来访问 GPT 与 AI 绘画</li>
+</ul>
+<h2 id="安装-9"><a href="#安装-9" class="headerlink" title="安装"></a>安装</h2><ul>
+<li><p>克隆仓库</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git clone https://github.com/CikeyQi/gpti-plugin.git ./plugins/gpti-plugin</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>安装依赖</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">pnpm install --filter=gpti-plugin</span><br></pre></td></tr></table></figure></li>
+</ul>
+<h3 id="原链接-9"><a href="#原链接-9" class="headerlink" title="原链接"></a>原链接</h3><p><a href="https://github.com/CikeyQi/gpti-plugin">点击查看</a></p>
+<ul>
+<li>更多待添加</li>
+</ul>
+]]></content>
+  </entry>
+</search>
